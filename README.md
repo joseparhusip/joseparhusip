@@ -18,7 +18,7 @@
 I build applications end to end: from system modeling (UML, ERD, flowcharts) to the frontend, the backend, and the database, for both web and mobile. I also enjoy turning raw data into dashboards that answer real questions.
 
 - **Focus:** Web · Mobile · Data · AI
-- **Based in:** Bandung, Indonesia
+- **Based in:** Bekasi, Indonesia
 - **Open to:** work and collaboration
 - **Ask me about:** Vue and React frontends, REST APIs with Go or Node.js, Flutter apps, and Streamlit dashboards
 
